@@ -1,5 +1,6 @@
 import requests
 
+
 # Cisco DevNet Sandbox Details
 BASE_URL = "https://sandboxdnac.cisco.com"
 USERNAME = "devnetuser"
